@@ -62,7 +62,7 @@
 
 ### Step 5: Simulating a Risky Sign-in (Testing)
 
-1. Use a VPN or a new device to simulate an unfamiliar sign-in.
+1. Use a VPN or a new device to simulate an unfamiliar IP sign-in.
 
  ![Screenshot 2025-01-29 234348](https://github.com/user-attachments/assets/e4aeb922-0865-46d7-a7a5-d3b29ec0ac5f)
 
@@ -99,3 +99,8 @@
 <br><br>
 
 ![Screenshot 2025-01-30 001555](https://github.com/user-attachments/assets/45be0461-852d-4baa-b402-035092f2551f)
+
+- Logs from Microsoft Defender for Cloud,
+
+![Screenshot 2025-02-03 005555](https://github.com/user-attachments/assets/7dc70045-0f49-4729-9197-3a9169fa4df2)
+
